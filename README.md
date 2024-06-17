@@ -18,3 +18,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/0633-sum-of-square-numbers) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/0633-sum-of-square-numbers) |
