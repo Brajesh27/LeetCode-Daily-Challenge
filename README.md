@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Stack
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
