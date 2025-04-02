@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Brajesh27/LeetCode-Daily-Challenge/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Stack
 |  |
 | ------- |
